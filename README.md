@@ -4,6 +4,14 @@ Pixo is a Retro Styled Theme for CTFd which consists of numerous features like O
 
 Compatible with CTFd **Version 3.3.0**
 
+Pixo是一个复古风格的主题，它由许多功能组成，如OLD，如闪烁，Old school字体和通知给主题一个90年代的外观。
+
+与 CTFd版本 **3.3.0兼容**
+**测试，3.4x同样可用**
+
+QQ交流群：973504130
+
+
 Few Screenshots:
   
   ![Index Page](https://i.imgur.com/lL7zYrg.gif "Index Page")
